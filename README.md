@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Taylor+Swift!;" />
 </h1>
 
-<h3 align="center">From Ohio</h3>
+<h3 align="center">From New York City</h3>
 
 <br/>
 
 <div align="center">
  
- 🍗 I’m currently working on **Popeyes Os**
+Currently Working on.. robotic projects integrated with AI/ML
 
  </div>
  
